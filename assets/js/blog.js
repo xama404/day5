@@ -27,8 +27,8 @@ function submitBlog(event) {
     title: inputTitle,
     content: inputContent,
     image: inputImage,
-    postAt: "31 Januari 2077",
-    author: "Gunawan Dzakwan S",
+    postAt: "1 Juni 2024",
+    author: "Harry Ramadani",
   };
 
   dataBlog.push(blog);
